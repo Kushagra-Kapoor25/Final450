@@ -14,3 +14,6 @@ int main()
     cout << *itr << "\n";
     return 0;
 }
+
+// Time complexity: O(n)
+// Space complexity: O(n)
